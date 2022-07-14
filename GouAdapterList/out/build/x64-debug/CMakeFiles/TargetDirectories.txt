@@ -1,0 +1,5 @@
+C:/Users/parksangwo/Desktop/Github/GpuAdapterList/GouAdapterList/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/parksangwo/Desktop/Github/GpuAdapterList/GouAdapterList/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/parksangwo/Desktop/Github/GpuAdapterList/GouAdapterList/out/build/x64-debug/GouAdapterList/CMakeFiles/GouAdapterList.dir
+C:/Users/parksangwo/Desktop/Github/GpuAdapterList/GouAdapterList/out/build/x64-debug/GouAdapterList/CMakeFiles/edit_cache.dir
+C:/Users/parksangwo/Desktop/Github/GpuAdapterList/GouAdapterList/out/build/x64-debug/GouAdapterList/CMakeFiles/rebuild_cache.dir
